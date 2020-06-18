@@ -7,7 +7,11 @@ Meal Buddy is a chatbot which provides restaurant suggestions based on the prefe
 
 
 Chinju baby C0769912
+
 Elvin Iype Mathew C0769974
+
 Elda Varghese C0769741
+
 Jeena Helen Francis C0764493
+
 Tom Joseph C0760915
