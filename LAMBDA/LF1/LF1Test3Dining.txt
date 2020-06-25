@@ -1,0 +1,21 @@
+{
+  "bot": {
+    "name": "mealbuddy"
+  },
+  "userId": "LF1",
+  "currentIntent": {
+    "name": "SuggestDining",
+    "slots": {
+      "location": "Toronto",
+      "cuisine": "Indian",
+      "diningDate": "2020/06/26",
+      "diningTime": "13:00",
+      "numPeople": "4",
+      "phoneNum": "+16478034561"
+    }
+  },
+  "invocationSource": "DialogCodeHook",
+  "sessionAttributes": {
+    "currentReservation": {}
+  }
+}
