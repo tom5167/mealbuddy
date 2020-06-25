@@ -256,7 +256,7 @@ def suggest_dining_sqs(intent_request):
     })
 
     session_attributes['currentReservation'] = reservation
-    logger.debug('in line 264')
+    #logger.debug('in line 264')
     if intent_request['invocationSource'] == 'DialogCodeHook':
         # Validate any slots which have been specified.  If any are invalid, re-elicit for their value
         validation_result = validate_dining(intent_request['currentIntent']['slots'])
@@ -271,9 +271,9 @@ def suggest_dining_sqs(intent_request):
             )
 
         session_attributes['currentReservation'] = reservation
-        logger.debug('before return in 279')
+        #logger.debug('before return in 279')
         return delegate(session_attributes, intent_request['currentIntent']['slots'])
-        logger.debug('after return in 279')
+        #logger.debug('after return in 279')
     # New for HW2: Send message to SQS queue
     logger.debug('inside sqs')
     sqs = boto3.client('sqs')
