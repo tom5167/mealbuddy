@@ -1,0 +1,10 @@
+{
+  "bot": {
+    "name": "mealbuddy"
+  },
+  "userId": "LF1",
+  "currentIntent": {
+    "name": "ThankYou"
+  },
+  "sessionAttributes": "hi"
+}
