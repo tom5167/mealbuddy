@@ -1,7 +1,0 @@
-https://stackoverflow.com/questions/43059930/how-do-i-integrate-aws-lex-chatbot-to-my-website
-
-https://stackoverflow.com/questions/43059930/how-do-i-integrate-aws-lex-chatbot-to-my-website/50058356#50058356
-
-https://www.kommunicate.io/blog/integrate-amazon-lex/
-
-https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/cors.html
