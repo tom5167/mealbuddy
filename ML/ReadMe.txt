@@ -1,5 +1,6 @@
 1.Gathering Data
 - Gathered data using yelp api and dump to yelp_restaurant.csv
+- semi supervised
 
 2.Data Preparation
 - read yelp_restaurant.csv and store in dataDF
@@ -11,6 +12,7 @@
 
 3.Choosing a Model
 - trainDF, validationDF = train_test_split(trainingDF, test_size=0.1, random_state=42)
+- decison tree > random forest > xgboost algorithm
 
 4.Evaluation
 
