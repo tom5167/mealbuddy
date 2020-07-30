@@ -16,3 +16,5 @@ Elda Varghese C0769741
 Jeena Helen Francis C0764493
 
 Tom Joseph C0760915
+
+![Architecture Diagram](https://github.com/tom5167/mealbuddy/blob/master/ARCHITECTURE_DIAGRAM/architecture_diagram.png)
