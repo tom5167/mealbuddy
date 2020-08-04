@@ -12,3 +12,5 @@ Command Line Interface or SDK of your choice, and three simple commands.
 
 SQS offers two types of message queues. Standard queues offer maximum throughput, best-effort ordering, and at-least-once delivery. 
 SQS FIFO queues are designed to guarantee that messages are processed exactly once, in the exact order that they are sent.
+
+https://aws.amazon.com/sqs/
