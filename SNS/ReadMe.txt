@@ -11,3 +11,5 @@ endpoints for parallel processing, including Amazon SQS queues, AWS Lambda funct
 Additionally, SNS can be used to fan out notifications to end users using mobile push, SMS, and email.
 
 You can get started with Amazon SNS in minutes by using the AWS Management Console, AWS Command Line Interface (CLI), or AWS Software Development Kit (SDK).
+
+https://aws.amazon.com/sns/
