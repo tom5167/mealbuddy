@@ -1,4 +1,4 @@
-Amazon Simple Notification Service
+# Amazon Simple Notification Service
 
 Fully managed pub/sub messaging for microservices, distributed systems, and serverless applications
 
