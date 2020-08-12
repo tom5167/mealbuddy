@@ -1,4 +1,4 @@
-Yelp Fusion API
+# Yelp Fusion API
 
 Yelp provides helpful tools for developers of all sizes and backgrounds. Explore our wide range of market-leading products.
 Harness the power of Yelp. Unlock a wealth of content and data from over 50 million businesses. See what you can do with the full suite of Yelp Fusion APIs.
