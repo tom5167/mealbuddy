@@ -8,6 +8,7 @@ A real time chat with your buddy powered by AWS cloud services can provide you w
 Pulling in data from Yelp-API by taking into account: location, price, and type of cuisine.
 
 AWS Services include LEX,SQS,S3,SNS,LAMBDA,SAGEMAKER,DYNAMODB,CLOUDWATCH
+
 Other Services like Kommunicate,Slack,Github,Jira-Kanban,GoogleDrive,GoogleDocs,Draw.io,YelpAPI 
 
 **Team Members**
