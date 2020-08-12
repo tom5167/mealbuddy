@@ -12,7 +12,7 @@ A real time chat with your buddy powered by AWS cloud services can provide you w
 
 Pulling in data from Yelp-API by taking into account: location, price, and type of cuisine.
 
-Team Members
+**Team Members**
 - Chinju baby C0769912
 - Elvin Iype Mathew C0769974
 - Elda Varghese C0769741
