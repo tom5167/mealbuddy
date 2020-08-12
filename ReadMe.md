@@ -1,4 +1,4 @@
-# Mealbuddy - microservices based serverless web application
+# Mealbuddy (microservices based serverless web application)
 
 Feeling Hungry? If you are busy tied up with work don’t have time to manually sit and search for lunch options.
 Where should I have lunch? Your Meal Buddy is the tool you’ll turn to answer this question. 
