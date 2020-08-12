@@ -7,9 +7,9 @@ Meal Buddy is a chatbot which provides restaurant suggestions based on the prefe
 A real time chat with your buddy powered by AWS cloud services can provide you with excellent result suggestions. 
 Pulling in data from Yelp-API by taking into account: location, price, and type of cuisine.
 
-**AWS Services include LEX,SQS,S3,SNS,LAMBDA,SAGEMAKER,DYNAMODB,CLOUDWATCH**
+**AWS Services include LEX, SQS, S3, SNS, LAMBDA, SAGEMAKER, DYNAMODB, CLOUDWATCH**
 
-**Other Services like Kommunicate,Slack,Github,Jira-Kanban,GoogleDrive,GoogleDocs,Draw.io,YelpAPI**
+**Other Services like Kommunicate, Slack, Github, Jira-Kanban, GoogleDrive, GoogleDocs, Draw.io, YelpAPI**
 
 **Team Members**
 - Chinju baby C0769912
