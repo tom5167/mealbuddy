@@ -7,7 +7,7 @@ This means customers of all sizes and industries can use it to store and protect
 Amazon S3 provides easy-to-use management features so you can organize your data and configure finely-tuned access controls to meet your specific business, organizational, and compliance requirements. 
 Amazon S3 is designed for 99.999999999% (11 9's) of durability, and stores data for millions of applications for companies all around the world.
 
-https://aws.amazon.com/s3/
+URL: https://aws.amazon.com/s3/
 
 Made a UI design (welcome page) using html,css,js for chatbot, this is the link ( https://s3.amazonaws.com/www.mealbuddy.xyz/index.html )
 
