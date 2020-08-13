@@ -27,9 +27,9 @@ Notebook - resturantRecommendationML
  
  ex. 	
  
- review_count	rating	recommend	cuisine_american	cuisine_chinese	cuisine_greek	cuisine_indian	cuisine_italian	cuisine_latin	cuisine_mexican	cuisine_persian	cuisine_spanish
+ review_count	rating cuisine_american	cuisine_chinese	cuisine_greek	cuisine_indian	cuisine_italian	cuisine_latin	cuisine_mexican	cuisine_persian	cuisine_spanish
  
- 0	98	4.5	1	0	0	0	1	0	0	0	0	0
+ 98	4.5 0	0	0	1	0	0	0	0	0
 
 - train, validation = train_test_split(semisupervised_train_for_model, test_size=0.1, random_state=42)
 - train.to_csv('train.csv', index=False, header=False)
