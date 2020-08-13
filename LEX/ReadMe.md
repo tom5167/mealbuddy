@@ -23,14 +23,21 @@ Click create intent→ name the intent→ Add sample utterances
 Utterances are the phrases that you want this intent to reply to.
 
 4)Slots In Lex, variables are stored in Slots that contain the following:
+
 ● property name 
+
 ● slot type 
+
 ● prompt. 
+
 There are a few different ways to create new slots and I’ll discuss a few methods below.
 
 In the Slots section, add the following information to create a new slot. 
+
 ● Name: “Name” 
+
 ● Slot type: “AMAZON.GB_FIRST_NAME” 
+
 ● Prompt: “Hi there, what’s your name?” The smart bit about Amazon Lex is that it uses Natural Language Understanding (NLU) to work out what the user is trying to say.
 
 5)Response No we need to reply to this message. Click the “Add Message” button in the response box. This creates a new message box for us to fill in.
