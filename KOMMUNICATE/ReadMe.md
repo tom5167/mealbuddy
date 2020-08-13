@@ -7,6 +7,7 @@ Kommunicate gives you the power to integrate any third-party or custom chatbot i
 - Welcome Messages - Create custom and conditional Welcome Messages to greet your visitors automatically.
 - Push Notifications - Set up interactive alerts for both your agents and customers for new messages in conversations.
 - Customization - Add your brand identity and color, and customize the chat widget to make it your own.
+
 So I finally decided to go with Kommunicate which is easier to set up, less coding involved and save our time. Even though there is a FREE plan available, I would like to go with a GROWTH plan which has Bot integration and more features. https://www.kommunicate.io/pricing
 - Everything in FREE Plan 
 - Monthly $20
