@@ -13,7 +13,6 @@ Notebook - resturantRecommendationML
 
 1.Gathering Data
 - Gathered data using yelp api and dump to yelp_restaurant.csv
-- semi supervised
 
 2.Data Preparation
 - read yelp_restaurant.csv and store in data frame
@@ -25,9 +24,13 @@ Notebook - resturantRecommendationML
 - create semisupervised_train will 80% df_recommend + 80% df_non_recommend and save as 'semisupervised_train.csv'
 - create unsupervised_train will 20% df_recommend + 20% df_non_recommend and save as 'unsupervised_train.csv'
 - Convert categorical variable into dummy/indicator variables for cuisine
+ 
  ex. 	
+ 
  review_count	rating	recommend	cuisine_american	cuisine_chinese	cuisine_greek	cuisine_indian	cuisine_italian	cuisine_latin	cuisine_mexican	cuisine_persian	cuisine_spanish
+ 
  0	98	4.5	1	0	0	0	1	0	0	0	0	0
+
 - train, validation = train_test_split(semisupervised_train_for_model, test_size=0.1, random_state=42)
 - train.to_csv('train.csv', index=False, header=False)
 - validation.to_csv('validation.csv', index=False, header=False)
