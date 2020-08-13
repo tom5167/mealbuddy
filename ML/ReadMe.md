@@ -7,7 +7,9 @@ For that , we  fetched the details of restaurants  [id, cuisine, rating and revi
 Then we are storing the data into a csv file for further use. From there by using machine learning techniques we created different models to train and test them. The different machine learning models will be evaluated to find  the best model which will give  the best  restaurant with its rating and reviews
 Now we are going through different ML algorithms (Decision tree, Random forest , xgboost algorithm) to understand which is better to choose. 
 
-
+Notebook - resturantRecommendationML
+ - Notebook instance - typeml.t2.medium
+ - Volume Size - 5GB EBS
 
 1.Gathering Data
 - Gathered data using yelp api and dump to yelp_restaurant.csv
