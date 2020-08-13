@@ -44,10 +44,10 @@ output_path='s3://{}/output'.format(bucket),sagemaker_session=sess)
 objective='binary:logistic',num_round=20)
 - xgb.fit({'train': s3_input_train,'validation': s3_input_validation})
 
-5.Deploy
+4.Deploy
 - xgb_predictor = xgb.deploy(initial_instance_count=1,instance_type='ml.m4.xlarge')
 
-6.Prediction
+5.Prediction
 - xgb_predictor.predict(array).decode('utf-8')
 
 
