@@ -52,7 +52,7 @@ def lambda_handler(event, context):
         queue_url = response['QueueUrl']
         
         #delete message from queue
-        #deleteSQSmessage.deleteMessageSQS(queue_url,message['ReceiptHandle'] )
+        deleteSQSmessage.deleteMessageSQS(queue_url,message['ReceiptHandle'] )
         
         #call dynamodb search
         searchResponse = ""
