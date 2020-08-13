@@ -3,6 +3,19 @@
 Kommunicate is a human + bot hybrid customer support software for real-time and proactive customer support, made for businesses of every size.
 URL: https://www.kommunicate.io/
 
+Kommunicate gives you the power to integrate any third-party or custom chatbot in your platform. Be there where your customers are with Chatbots that are compatible on all platforms; website, mobile, web apps and more.
+- Welcome Messages - Create custom and conditional Welcome Messages to greet your visitors automatically.
+- Push Notifications - Set up interactive alerts for both your agents and customers for new messages in conversations.
+- Customization - Add your brand identity and color, and customize the chat widget to make it your own.
+
+So I finally decided to go with Kommunicate which is easier to set up, less coding involved and save our time. Even though there is a FREE plan available, I would like to go with a GROWTH plan which has Bot integration and more features. https://www.kommunicate.io/pricing
+- Everything in FREE Plan 
+- Monthly $20
+- Includes 2 teammates. $10 for each additional teammate
+- Unlimited bots
+Kommunicate is GDPR compliant which makes it more secure.
+
+
 Simple, intuitive and easy to use interface wrapped over powerful conversational AI
 Make custom bots for your business with our no-code, GUI bot builder, Kompose
 Create bots that can qualify leads, schedule meetings or support your customers 24/7
